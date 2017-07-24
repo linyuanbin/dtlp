@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\dtlp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\ic_main_left_bg.jpg",
+        "source": "D:\\dtlp\\app\\src\\main\\res\\mipmap-hdpi\\ic_main_left_bg.jpg"
+    },
+    {
+        "merged": "D:\\dtlp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\shadow.png",
+        "source": "D:\\dtlp\\app\\src\\main\\res\\mipmap-hdpi\\shadow.png"
+    },
+    {
+        "merged": "D:\\dtlp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\default_face.9.png",
+        "source": "D:\\dtlp\\app\\src\\main\\res\\mipmap-hdpi\\default_face.9.png"
+    },
+    {
+        "merged": "D:\\dtlp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\dtlp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]
